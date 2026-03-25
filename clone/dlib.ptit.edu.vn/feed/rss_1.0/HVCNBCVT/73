@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://dlib.ptit.edu.vn/handle/HVCNBCVT/73">
+    <title>Thư viện số Đơn vị: Tài liệu hội nghị, hội thảo, thông báo khoa học, bài đăng tạp chí</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/73</link>
+    <description>Tài liệu hội nghị, hội thảo, thông báo khoa học, bài đăng tạp chí</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/94fc7965-9636-44ed-8bd1-1e2e547f0e07/Danh_muc_BB TC trong nuoc.2012.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/ab1ae8de-871a-4db8-805b-f3318be9249f/Danh_muc BB TC QT.2012.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/4627c44b-cd7e-40f7-8801-7eaf5a547393/Danh_muc_de_tai_cap_HV_2012.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/87996371-633f-45f8-b922-d68052d0fe99/Danh_muc_de_tai_cap_Bo.pdf.jpg" />
+      </rdf:Seq>
+    </items>
+    <dc:date>2026-03-12T14:44:40Z</dc:date>
+  </channel>
+  <item rdf:about="https://ikr.inceif.org/retrieve/94fc7965-9636-44ed-8bd1-1e2e547f0e07/Danh_muc_BB TC trong nuoc.2012.pdf.jpg">
+    <title>Danh mục bài báo đăng tạp chí trong nước năm 2012</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/850</link>
+    <description>Nhan đề : Danh mục bài báo đăng tạp chí trong nước năm 2012
+Tác giả: Học viện Công nghệ Bưu chính Viễn thông</description>
+    <content:encoded>Working Paper</content:encoded>
+    <dc:date>2012-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/ab1ae8de-871a-4db8-805b-f3318be9249f/Danh_muc BB TC QT.2012.pdf.jpg">
+    <title>Danh mục bài báo đăng tạp chí quốc tế năm 2012</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/849</link>
+    <description>Nhan đề : Danh mục bài báo đăng tạp chí quốc tế năm 2012
+Tác giả: Học viện Công nghệ Bưu chính Viễn thông</description>
+    <content:encoded>Working Paper</content:encoded>
+    <dc:date>2012-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/4627c44b-cd7e-40f7-8801-7eaf5a547393/Danh_muc_de_tai_cap_HV_2012.pdf.jpg">
+    <title>Danh mục đề tài NCKH cấp Học viện năm 2012</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/848</link>
+    <description>Nhan đề : Danh mục đề tài NCKH cấp Học viện năm 2012
+Tác giả: Học viện Công nghệ Bưu chính Viễn thông</description>
+    <content:encoded>Working Paper</content:encoded>
+    <dc:date>2012-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/87996371-633f-45f8-b922-d68052d0fe99/Danh_muc_de_tai_cap_Bo.pdf.jpg">
+    <title>Danh mục đề tài NCKH cấp Bộ năm 2012</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/847</link>
+    <description>Nhan đề : Danh mục đề tài NCKH cấp Bộ năm 2012
+Tác giả: Học viện Công nghệ Bưu chính Viễn thông</description>
+    <content:encoded>Working Paper</content:encoded>
+    <dc:date>2012-01-01T00:00:00Z</dc:date>
+  </item>
+</rdf:RDF>
+

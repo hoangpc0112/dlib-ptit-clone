@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Thư viện số Đơn vị:</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2233</link>
+    <description />
+    <pubDate>Thu, 12 Mar 2026 14:44:33 GMT</pubDate>
+    <dc:date>2026-03-12T14:44:33Z</dc:date>
+    <item>
+      <title>Bản mô tả chương trình đào tạo hệ đại học ngành công nghệ thông tin</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2321</link>
+      <description>Nhan đề : Bản mô tả chương trình đào tạo hệ đại học ngành công nghệ thông tin
+Tác giả: Học viện công nghệ Bưu chính Viễn thông
+Tóm tắt : Mô tả chi tiết chương trình đào tạo hệ đại học ngành công nghệ thông tin</description>
+      <content:encoded>Learning Object</content:encoded>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/db39fdaa-1f95-4e13-a61f-424ca590dc93/Ban mo ta CTDT he DH nganh CNTT 2020. Watermark.pdf.jpg</guid>
+      <dc:date>2020-01-01T00:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

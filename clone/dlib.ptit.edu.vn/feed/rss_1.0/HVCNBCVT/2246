@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://dlib.ptit.edu.vn/handle/HVCNBCVT/2246">
+    <title>Thư viện số Đơn vị:</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2246</link>
+    <description />
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/33f3d1da-2ad2-4e53-adde-64427b76413f/SKD1107_Bài giảng KN TD sáng tạo_PTKN_Đinh Thị Hương mới.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/a82cc893-5495-4082-8dfb-d7640607b319/SKD1105_Bài giảng KNGT _2024 PTKN_Trần Hương Giang.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/b81359fd-5bee-480e-bda5-9f2d68afb500/SKD1104_Bài giảng KN Lập KH&amp;TCTHCV_PTKN_Nguyễn Thị Kim Chi.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/db95ab21-b8cb-410a-b8ea-34685bcc2fee/SKD1103_Bài giảng KNTLVBTV_2024_PTKN_Trần Hương Giang.pdf.jpg" />
+      </rdf:Seq>
+    </items>
+    <dc:date>2026-03-12T14:59:04Z</dc:date>
+  </channel>
+  <item rdf:about="https://ikr.inceif.org/retrieve/33f3d1da-2ad2-4e53-adde-64427b76413f/SKD1107_Bài giảng KN TD sáng tạo_PTKN_Đinh Thị Hương mới.pdf.jpg">
+    <title>Bài giảng Kỹ năng tư duy sáng tạo</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/4493</link>
+    <description>Nhan đề : Bài giảng Kỹ năng tư duy sáng tạo
+Tác giả: Đinh, Thị Hương
+Tóm tắt : Nội dung bài giảng được kết cấu làm 3 chương. &#xD;
+Chương 1 giới thiệu một số vấn đề liên quan đến khái niệm tư duy sáng tạo, trình bày sơ lược các mức độ và vai trò của tư duy sáng tạo với sự phát triển của cá nhân và đổi mới xã hội, phân tích các yếu tố cản trở tư duy sáng tạo của con người. &#xD;
+Chương 2 tập trung giới thiệu những phương pháp tư duy sáng tạo đã được các&#xD;
+nhà nghiên cứu phát hiện như phương pháp động não, phương pháp SCAMPER, phương pháp dùng sơ đồ tư duy, phương pháp sáu chiếc mũ tư duy, phương pháp ngẫu nhiên sáng tạo và phương pháp tư duy ngược.&#xD;
+Chương 3 gợi ý những cách phát triển tư duy sáng tạo vào trong học tập và làm việc, trình bày phương pháp đánh giá tư duy sáng tạo và gợi ý một số cách nhận diện người ưa sáng tạo, cách khuyến khích sự sáng tạo ở người khác.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2024-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/a82cc893-5495-4082-8dfb-d7640607b319/SKD1105_Bài giảng KNGT _2024 PTKN_Trần Hương Giang.pdf.jpg">
+    <title>Bài giảng Kỹ năng giao tiếp</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/4492</link>
+    <description>Nhan đề : Bài giảng Kỹ năng giao tiếp
+Tác giả: Trần, Hương Giang
+Tóm tắt : Nội dung học phần bao gồm ba chương chính:&#xD;
+- Chương 1. Những vấn đề chung về giao tiếp: Cung cấp nền tảng lý thuyết cơ bản, giúp người học nắm vững các quy luật giao tiếp và các yếu tố ảnh hưởng đến giao tiếp hiệu quả.&#xD;
+- Chương 2. Một số kỹ năng giao tiếp cơ bản: Tập trung vào việc rèn luyện các kỹ năng như gây ấn tượng, nghe, nói, đặt câu hỏi và phản hồi.&#xD;
+- Chương 3. Kỹ năng giao tiếp theo ngữ cảnh: Hướng dẫn người học áp dụng kỹ năng giao tiếp vào các tình huống thực tế, bao gồm giao tiếp trong môi trường học đường, môi trường số, và khi tham gia phỏng vấn.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2024-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/b81359fd-5bee-480e-bda5-9f2d68afb500/SKD1104_Bài giảng KN Lập KH&amp;TCTHCV_PTKN_Nguyễn Thị Kim Chi.pdf.jpg">
+    <title>Bài giảng Kỹ năng lập kế hoạch và tổ chức thực hiện công việc hiệu quả</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/4491</link>
+    <description>Nhan đề : Bài giảng Kỹ năng lập kế hoạch và tổ chức thực hiện công việc hiệu quả
+Tác giả: Nguyễn, Thị Kim Chi
+Tóm tắt : Nội dung bài giảng được thiết kế logic, bám sát thực tiễn, kết hợp hài hòa giữa lý thuyết và ứng dụng, bao gồm các nội dung chính sau:&#xD;
+ Tổng quan về kỹ năng lập kế hoạch: Khái niệm, tầm quan trọng, các loại kế hoạch.&#xD;
+ Quy trình lập kế hoạch hiệu quả: Xác định mục tiêu SMART, xây dựng kế hoạch hành động, phân bổ nguồn lực, xác định rủi ro và xây dựng phương án dự phòng&#xD;
+ Kỹ năng tổ chức thực hiện công việc: Ưu tiên nhiệm vụ, phân công công việc, theo dõi, đánh giá tiến độ, xử lý tình huống phát sinh.&#xD;
+ Ứng dụng công nghệ trong lập kế hoạch và tổ chức công việc: Giới thiệu các phần mềm, công cụ hỗ trợ lập kế hoạch và quản lý công việc hiệu quả.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2024-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/db95ab21-b8cb-410a-b8ea-34685bcc2fee/SKD1103_Bài giảng KNTLVBTV_2024_PTKN_Trần Hương Giang.pdf.jpg">
+    <title>Bài giảng Kỹ năng tạo lập văn bản Tiếng Việt</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/4490</link>
+    <description>Nhan đề : Bài giảng Kỹ năng tạo lập văn bản Tiếng Việt
+Tác giả: Trần, Hương Giang
+Tóm tắt : Bài giảng gồm ba chương được biên soạn theo trình tự logic sau:&#xD;
+Chương 1. Kỹ năng soạn thảo văn bản hành chính: Cung cấp các quy tắc và kiến thức cơ bản về văn bản hành chính, cùng hướng dẫn chi tiết cách soạn thảo các văn bản phổ biến như Thông báo, Tờ trình và Công văn.&#xD;
+Chương 2. Kỹ năng viết CV (Curriculum Vitae): Nội dung chương giúp sinh viên biết cách trình bày năng lực cá nhân một cách khoa học, tạo ấn tượng tốt với nhà tuyển dụng và tránh các lỗi thường gặp trong CV.&#xD;
+Chươn 3. Kỹ năng viết thư ứng tuyển và email: Tập trung vào cách viết thư ứng tuyển thuyết phục, soạn email chuyên nghiệp, và giao tiếp qua email hiệu quả, phù hợp với yêu cầgu của môi trường làm việc hiện đại</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2024-01-01T00:00:00Z</dc:date>
+  </item>
+</rdf:RDF>
+

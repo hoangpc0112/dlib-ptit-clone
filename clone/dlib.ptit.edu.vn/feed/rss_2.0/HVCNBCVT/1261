@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Thư viện số Đơn vị:</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/1261</link>
+    <description />
+    <pubDate>Thu, 12 Mar 2026 14:45:11 GMT</pubDate>
+    <dc:date>2026-03-12T14:45:11Z</dc:date>
+    <item>
+      <title>SBT Kiểm toán tài chính</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5284</link>
+      <description>Nhan đề : SBT Kiểm toán tài chính
+Tác giả: TS. Nguyễn Thị Việt Lê; TS. Lê Thị Ngọc; TS. Nguyễn Thị Chinh Lam
+Tóm tắt : cuốn Sách bài tập Kiểm toán tài chính được biên soạn &#xD;
+nhằm hỗ trợ sinh viên ngành Kế toán củng cố và nâng cao năng lực vận dụng kiến thức &#xD;
+thông qua hệ thống bài tập đa dạng, có tính thực tiễn và bám sát chương trình đào tạo đại &#xD;
+học. Cuốn sách được thiết kế như một tài liệu bổ trợ cho giáo trình lý thuyết, đồng thời là &#xD;
+công cụ hỗ trợ giảng viên trong quá trình giảng dạy, hướng dẫn thảo luận và đánh giá kết &#xD;
+quả học tập của sinh viên.CHƯƠNG 1. TỔNG QUAN VỀ KIỂM TOÁN TÀI CHÍNH,CHƯƠNG 2. HỢP ĐỒNG KIỂM TOÁN VÀ LẬP KẾ HOẠCH KIỂM TOÁN,CHƯƠNG 3. KIỂM TOÁN CHU TRÌNH BÁN HÀNG VÀ THU TIỀN,CHƯƠNG 4. KIỂM TOÁN CHU TRÌNH MUA HÀNG VÀ THANH TOÁN,CHƯƠNG 5: KIỂM TOÁN CHU TRÌNH TÀI SẢN CỐ ĐỊNH VÀ ĐẦU TƯ DÀI HẠN, CHƯƠNG 6. KIỂM TOÁN CHU TRÌNH TIỀN LƯƠNG,CHƯƠNG 7. KIỂM TOÁN CHU TRÌNH HÀNG TỒN KHO, CHƯƠNG 8. KIỂM TOÁN CHU TRÌNH VỐN BẰNG TIỀN, CHƯƠNG 9: KIỂM TOÁN CHU TRÌNH TIẾP NHẬN VÀ HOÀN TRẢ VỐN, CHƯƠNG 10: KẾT THÚC KIỂM TOÁN</description>
+      <content:encoded>Bài giảng</content:encoded>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/764e6e6d-3243-4a50-90dc-017d79afdf0a/SBT Kiểm toán tài chính.pdf.jpg</guid>
+      <dc:date>2026-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Phát hiện tấn công có chủ đích: từ lý thuyết đến thực hành</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5197</link>
+      <description>Nhan đề : Phát hiện tấn công có chủ đích: từ lý thuyết đến thực hành
+Tác giả: Đỗ, Xuân Chợ
+Tóm tắt : Cuốn sách chuyên khảo gồm 12 chương được chia thành 4 phần chính. Chi tiết các chương &#xD;
+và các phần như sau: &#xD;
+Phần 1. Tổng quan về tấn công APT và vấn đề phát hiện, &#xD;
+phòng chống tấn công APT. Trong phần này, tác giả sẽ cung cấp cho &#xD;
+người đọc cái nhìn tổng quan, chi tiết nhất về tấn công APT. Ngoài ra, tác &#xD;
+giả cũng mô tả và phân tích xu thế của các hệ thống phát hiện và ngăn &#xD;
+chặn tấn công APT trên thế giới. Chương cuối trong phần 1, sẽ trình bày &#xD;
+về mô hình phát hiện tấn công APT dựa trên sự phát triển và vòng đời &#xD;
+của chiến dịch tấn công APT sử dụng trí tuệ nhân tạo. Các chương chính &#xD;
+trong phần 1 bao gồm: &#xD;
+ Chương 1. Tổng quan về tấn công APT.&#xD;
+ Chương 2. Tổng quan về phòng chống và phát hiện tấn công APT.&#xD;
+ Chương 3. Tổng quan hệ thống phát hiện tấn công APT dựa&#xD;
+trên phân tích hành vi bất thường.&#xD;
+Phần 2. Phát hiện tấn công APT trong giai đoạn phát tán. Phần &#xD;
+này sẽ giới thiệu một số phương pháp và kỹ thuật để phát hiện tấn công &#xD;
+APT trong giai đoạn đầu của chiến dịch tấn công APT. Dựa trên sự phát &#xD;
+triển về vòng đời của chiến dịch tấn công, trong phần 2 sẽ tập trung giới &#xD;
+thiệu và phân tích 3 mô hình phát hiện tấn công APT chính là APT URL, &#xD;
+APT email và mã độc APT. Ba mô hình trong phần 2 này sẽ tương đương &#xD;
+với 3 chương cụ thể như sau: &#xD;
+ Chương 4. Phát hiện APT URL.&#xD;
+ Chương 5. Phát hiện APT email.&#xD;
+ Chương 6. Phát hiện mã độc APT.&#xD;
+PHÁT HIỆN TẤN CÔNG CÓ CHỦ ĐÍCH TỪ LÝ THUYẾT ĐẾN THỰC HÀNH &#xD;
+|v &#xD;
+Phần 3. Phát hiện tấn công APT trong giai đoạn tấn công và &#xD;
+xóa dấu vết. Nội dung phần 3 sẽ nghiên cứu và trình bày một số mô hình &#xD;
+để phát hiện chiến dịch tấn công APT trong giai đoạn tấn công và xóa &#xD;
+dấu vết. Cụ thể, dựa trên một số cách thức mà những kẻ tấn công thường &#xD;
+sử dụng trong các chiến dịch của chúng, tác giả giới thiệu 3 mô hình với &#xD;
+3 kỹ thuật phát hiện bao gồm: APT domain, APT IP, mô hình tương quan &#xD;
+cho phát hiện APT. Cụ thể các chương trong phần 3 như sau: &#xD;
+ Chương 7. Phát hiện APT domain.&#xD;
+ Chương 8. Phát hiện APT IP.&#xD;
+ Chương 9. Phát hiện tấn công APT dựa trên phân tích tương quan.&#xD;
+Phần 4. Xây dựng hệ thống phát hiện tấn công APT. Các nội&#xD;
+dung trong phần 4 của cuốn sách tập trung chủ yếu vào việc áp dụng các &#xD;
+công nghệ và giải pháp đã được trình bày tại phần 2 và phần 3 để xây &#xD;
+dựng các hệ thống phát hiện và ngăn chặn tấn công APT. Cụ thể, dựa &#xD;
+trên kinh nghiệm xây dựng và phát triển hệ thống giám sát tấn công &#xD;
+mạng nói chung và tấn công APT nói riêng trong thực tế, tác giả đã &#xD;
+hướng dẫn xây dựng 3 mô hình phát hiện tấn công APT dựa trên chính &#xD;
+vòng đời và phát triển của chúng. Cụ thể 3 mô hình phát hiện và phòng &#xD;
+chống tấn công APT tương đương với 3 chương sau:  &#xD;
+ Chương 10. Xây dựng ứng dụng phát hiện APT URL trên thiết&#xD;
+bị đầu cuối.&#xD;
+ Chương 11. Xây dựng hệ thống phát hiện mã độc APT trên&#xD;
+thiết bị đầu cuối.&#xD;
+ Chương 12. Phát triển giải pháp phát hiện tấn công APT cho&#xD;
+chính phủ điện tử.</description>
+      <content:encoded>Giáo trình</content:encoded>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/f8a5095c-bd79-4754-a6ee-6f13f3445d14/Do Xuan Cho. Phat hien tan cong APT tu ly thuyet den thuc hanh pdf.pdf.jpg</guid>
+      <dc:date>2025-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Giáo trình Kinh tế vi mô</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5196</link>
+      <description>Nhan đề : Giáo trình Kinh tế vi mô
+Tác giả: Vũ, Trọng Phong; Trần, Thị Hòa
+Tóm tắt : Tổng quan về kinh tế học vi mô; lý thuyết cung - cầu; lý thuyết hành vi người tiêu dùng; lựa chọn trong điều kiện rủi ro; lý thuyết hành vi của doanh nghiệp; thị trường cạnh tranh hoàn hảo; thị trường độc quyền; thị trường độc quyền cạnh tranh; thị trường các yếu tố sản xuất; thất bại của thị trường và vai trò của chính phủ.</description>
+      <content:encoded>Giáo trình</content:encoded>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/26c9c2cd-79ee-4446-bfa6-cc47042f7564/GIAO TRINH KINH TE VI MO 2023.pdf.jpg</guid>
+      <dc:date>2023-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Giáo trình Kinh tế vĩ mô</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5195</link>
+      <description>Nhan đề : Giáo trình Kinh tế vĩ mô
+Tác giả: Vũ, Trọng Phong; Trần, Thị Hòa
+Tóm tắt : Kết cấu giáo trình có 8 chương gồm nhiều nội dung từ khái niệm, thuật ngữ, công thức tính toán hay những vấn đề chính sách cụ thể. Các vấn đề kinh tế vĩ mô được trình bày từ đơn giản đến phức tạp, từ ngắn hạn đến dài hạn giúp cho người học nắm được những kiến thức cơ bản và trang bị các kỹ năng tính toán, tư duy. Các chương có phần giới thiệu, nội dung chính, tóm tắt chương và những vấn đề cần ghi nhớ, câu hỏi ôn tập, bài tập vận dụng cùng các tình huống thực tế đòi hỏi vận dụng các nguyên lý kinh tế vĩ mô để phân tích và giải thích.</description>
+      <content:encoded>Giáo trình</content:encoded>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/f1988fc7-9c29-42bc-aec4-800690c59ebe/GIAO TRINH KINH TE VI MO 2024.pdf.jpg</guid>
+      <dc:date>2024-01-01T00:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

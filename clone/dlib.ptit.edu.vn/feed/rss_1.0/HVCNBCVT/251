@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://dlib.ptit.edu.vn/handle/HVCNBCVT/251">
+    <title>Thư viện số Đơn vị: Nghiệp vụ TTTV và kỹ năng TTTV</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/251</link>
+    <description>Nghiệp vụ TTTV và kỹ năng TTTV</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ikr.inceif.org/image/item.png" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/89956f90-16da-4f28-a4d4-3facd82c819b/ND 11.2014 ve TTKHCN.18.2.14.PDF.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/image/item.png" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/119fa755-c807-4186-b922-ca95c674ad2d/TV ĐH &amp; DT theoTC.bb.pdf.jpg" />
+      </rdf:Seq>
+    </items>
+    <dc:date>2026-03-12T14:46:40Z</dc:date>
+  </channel>
+  <item rdf:about="https://ikr.inceif.org/image/item.png">
+    <title>Quyết định số 284/QĐ-TTg của Thủ tướng Chính phủ về Ngày Sách Việt Nam</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/1205</link>
+    <description>Nhan đề : Quyết định số 284/QĐ-TTg của Thủ tướng Chính phủ về Ngày Sách Việt Nam
+Tác giả: Chinh phủ</description>
+    <content:encoded>Other</content:encoded>
+    <dc:date>2014-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/89956f90-16da-4f28-a4d4-3facd82c819b/ND 11.2014 ve TTKHCN.18.2.14.PDF.jpg">
+    <title>Nghị định  số:11/2014/ND-CP về hoạt động thông tin khoa học công nghệ</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/1198</link>
+    <description>Nhan đề : Nghị định  số:11/2014/ND-CP về hoạt động thông tin khoa học công nghệ
+Tác giả: Chính Phủ
+Tóm tắt : Ngày 18/02/2014, Chính phủ đã ban hành Nghị định số 11/2014/NĐ-CP về Hoạt động Thông tin KH&amp;CN (Nghị định thay thế Nghị định 159/2004/NĐ-CP ngày 31/8/2004). &#xD;
+ Nghị định gồm 06 chương 38 điều, quy định một số nội dung chủ yếu về hoạt động thông tin KH&amp;CN.Nghị định đã nêu chi tiết nội dung hoạt động thông tin KH&amp;CN bao quát từ việc tạo lập và phát triển nguồn tin đến sử dụng, phổ biến và cung cấp dịch vụ thông tin KH&amp;CN nhằm phục vụ cho dự báo, hoạch định chính sách, lãnh đạo, quản lý, nghiên cứu khoa học và phát triển công nghệ, sản xuất, kinh doanh và các hoạt động kinh tế - xã hội khác.</description>
+    <content:encoded>Other</content:encoded>
+    <dc:date>2014-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/image/item.png">
+    <title>Trích dẫn và lập danh mục tài liệu trích dẫn</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/903</link>
+    <description>Nhan đề : Trích dẫn và lập danh mục tài liệu trích dẫn
+Tác giả: Tôn Nữ, Phương Lan; Hoàng, Thị Trung Thu</description>
+    <content:encoded>Presentation</content:encoded>
+    <dc:date>2010-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/119fa755-c807-4186-b922-ca95c674ad2d/TV ĐH &amp; DT theoTC.bb.pdf.jpg">
+    <title>Thư viện trường đại học với công tác phát triển học liệu phục vụ đào tạo theo tín chỉ</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/538</link>
+    <description>Nhan đề : Thư viện trường đại học với công tác phát triển học liệu phục vụ đào tạo theo tín chỉ
+Tác giả: Nguyễn, Văn Hành</description>
+    <content:encoded>Article</content:encoded>
+    <dc:date>2008-01-01T00:00:00Z</dc:date>
+  </item>
+</rdf:RDF>
+

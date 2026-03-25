@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dlib.ptit.edu.vn	TRUE	/	FALSE	1999999999	JSESSIONID	FF06E3F62B1CB5C7E49C589FB32A9594
+dlib.ptit.edu.vn	TRUE	/	FALSE	1999999999	SameSite	lax
+

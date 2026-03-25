@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://dlib.ptit.edu.vn/handle/HVCNBCVT/362">
+    <title>Thư viện số Bộ sưu tập: Bao gồm các bài giảng của Khoa Viễn thông biên soạn cho các môn học trong chương trình đào tạo</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/362</link>
+    <description>Bao gồm các bài giảng của Khoa Viễn thông biên soạn cho các môn học trong chương trình đào tạo</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/697cde31-2c5b-4c7b-8d2d-5151d6d50243/BG Hoc may 2025.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/d57703f5-2ead-4579-9643-f5731158a0b3/BG Thiet bi thu phat vo tuyen trong cac he thong thong tin di dong.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/462499da-c24d-4a49-9e1c-02bdd6f8b237/BG Ly thuyet Anten.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/45b0474d-b764-4601-9ed8-225295fc79e0/BG 5G NR LDPC Code and 5G NR Polar Code.pdf.jpg" />
+      </rdf:Seq>
+    </items>
+    <dc:date>2026-03-12T14:59:08Z</dc:date>
+  </channel>
+  <item rdf:about="https://ikr.inceif.org/retrieve/697cde31-2c5b-4c7b-8d2d-5151d6d50243/BG Hoc may 2025.pdf.jpg">
+    <title>Bài giảng Ứng dụng và học máy</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5369</link>
+    <description>Nhan đề : Bài giảng Ứng dụng và học máy
+Tác giả: Nguyễn, Minh Tuấn
+Tóm tắt : Tài liệu được trình bày trong 5 chương: &#xD;
+Chương 1: Mở đầu. Chương này giới thiệu khái niệm cơ bản, bài toán và định nghĩa &#xD;
+hệ thống học máy. &#xD;
+Chương 2: Học máy. Các phương pháp học máy cơ bản bao gồm học có giám sát, &#xD;
+không giám sát và học tăng cường. &#xD;
+Chương 3: Mô hình và thuật toán. Chương này giới thiệu mô hình và thuật toán, bao &#xD;
+gồm các phương pháp như SVM, KNN, K-means và cây quyết định. &#xD;
+Chương 4: Mạng nơ-ron nhân tạo với các khái niệm perceptron, gradient descent và &#xD;
+các kiến trúc mạng khác nhau. &#xD;
+Chương 5: Ứng dụng học máy và các vấn đề nâng cao nhằm nâng cao chất lượng &#xD;
+mô hình và tiếp cận các công cụ nghiên cứu hiện đại. &#xD;
+Tài liệu không những cung cấp kiến thức lý thuyết mà còn giúp sinh viên có thể triển &#xD;
+khai các mô hình học máy cơ bản, từng bước tiếp cận các ứng dụng nâng cao trong lĩnh vực &#xD;
+Điện tử viễn thông và các ngành liên quan.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2025-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/d57703f5-2ead-4579-9643-f5731158a0b3/BG Thiet bi thu phat vo tuyen trong cac he thong thong tin di dong.pdf.jpg">
+    <title>Thiết bị thu phát vô tuyến trong các hệ thống thông tin di động</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/4475</link>
+    <description>Nhan đề : Thiết bị thu phát vô tuyến trong các hệ thống thông tin di động
+Tác giả: Nguyễn, Phạm Anh Dũng
+Tóm tắt : Cuốn sách này nhằm cung cấp các kến thức cơ sở về các thiết bị thu phát vô tuyến &#xD;
+cùng với các kiến trúc khác nhau của một hệ thống thu phát vô tuyến, trong đó chủ yếu tập trung lên các thiết bị thu phát vô tuyến áp dụng trong các hệ thống thông tin di động &#xD;
+nói chung và trong 4G LTE và 5G NR nói riêng.&#xD;
+Tài liệu này bao gồm năm chương. Ba chương đầu trình bày các kiến thức cơ sở về các &#xD;
+thiết bị thu phát vô tuyến: các định lý lấy mẫu băng gốc và trung tần số, các bộ chuyển &#xD;
+đổi tương tự sang số và ngược lai, kiến trúc máy thu vô tuyến và kiến trúc máy phát vô &#xD;
+tuyến với tập trung lên các thách thức hiệu năng như công suất và tuyến tính của bộ&#xD;
+khuếch đại công suất, tạp âm máy thu, nhiễu và các giải pháp giải quyết các thách thức &#xD;
+này. Chương bốn trình bày các công nghệ vô tuyến đối với các thiết bị thu phát vô tuyến &#xD;
+4G LTE và 5G. Chương này trình bày phổ tần công tác, hoạt động của BS trong phổ tần &#xD;
+liên tục, phổ tần không liên tuc, kết hợp phổ tần, cấu trúc tổng quát của một thiết bị thu &#xD;
+phát công nghệ đa truy nhập phân chia theo tần số trực giao (OFDMA). Ngoài ra chương &#xD;
+này cũng trình bày các đặc thù của các thiết bị hoạt động tại sóng mm (mm wave) cho 5G &#xD;
+cũng với các thách thức đối với công nghệ bán dẫn được lựa chọn cho các thiết bị vô &#xD;
+tuyến này. Chương năm trình bày các đặc tính và các yêu cầu hiệu năng đối với các thiết &#xD;
+bị thu phát vô tuyến 4G LTE và 5G.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2024-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/462499da-c24d-4a49-9e1c-02bdd6f8b237/BG Ly thuyet Anten.pdf.jpg">
+    <title>Lý thuyết Anten</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/4474</link>
+    <description>Nhan đề : Lý thuyết Anten
+Tác giả: Nguyễn, Phạm Anh Dũng
+Tóm tắt : Trong &#xD;
+các hệ thống truyền thông vô tuyến, anten đóng vai trò vô cùng quan trọng. Thiếu nó &#xD;
+không hệ thống vô tuyến nào hoạt động. Công nghệ anten cho các hệ thống thông tin di &#xD;
+động không ngừng phát triển: từ các mảng anten với vài lưỡng cực lên các mảng anten &#xD;
+lớn có đến hàng trăm lưỡng cực, từ các mảng anten kết nối đến các đầu vô tuyến bằng &#xD;
+cáp đồng trục, đến các mảng anten được tích hợp với các đầu thu phát vô tuyến. Tài liệu &#xD;
+này sẽ cung cấp cho các kỹ sư vô tuyến các vấn đề căn bản nhất về lý thuyết anten.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2024-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/45b0474d-b764-4601-9ed8-225295fc79e0/BG 5G NR LDPC Code and 5G NR Polar Code.pdf.jpg">
+    <title>5G NR LDPC Code và 5G NR  Polar Code</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/4473</link>
+    <description>Nhan đề : 5G NR LDPC Code và 5G NR  Polar Code
+Tác giả: Nguyễn, Phạm Anh Dũng
+Tóm tắt : Giao diện vô tuyến của hệ thống thông tin di động sử dụng công nghệ vô tuyến mới (NR: &#xD;
+New Radio) không tương thích với các công nghệ vô tuyến của các hệ thống thông tin di &#xD;
+động trước đó. Mã hóa kênh cho các kênh truyền số liệu và các kênh truyền báo hiệu của &#xD;
+5G NR sử dụng mã LDPC và mã cực (Polar Code) khác với 4G sử dụng mã turbo. Hai &#xD;
+mã này được cho là có hiệu năng tiệm cận với dung lượng Shannon. Tài liệu này sẽ xét &#xD;
+hai mã kênh sử dụng cho 5G NR nói trên.&#xD;
+Tài liệu gồm bốn phần:&#xD;
+− Phần 1. Mã 5G NR LDPC&#xD;
+− Phần 2. Mã 5G NR Polar&#xD;
+− Phần 3. Giải mã NR LDPC&#xD;
+− Phần 4. Giải mã Polar</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2024-01-01T00:00:00Z</dc:date>
+  </item>
+</rdf:RDF>
+

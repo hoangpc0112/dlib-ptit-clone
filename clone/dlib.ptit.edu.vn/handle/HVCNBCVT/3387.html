@@ -1,0 +1,657 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    
+<!-- Mirrored from dlib.ptit.edu.vn/handle/HVCNBCVT/3387 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Mar 2026 14:48:09 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+        <title>Trung t&#226;m th&#432; vi&#7879;n - H&#7885;c vi&#7879;n c&#244;ng ngh&#7879; b&#432;u ch&#237;nh vi&#7877;n th&#244;ng: Bài giảng Cơ sở dữ liệu</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="Generator" content="DSpace 6.0" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon"/>
+        <link rel="stylesheet" href="../../static/css/jquery-ui-1.10.3.custom/redmond/jquery-ui-1.10.3.custom.css" type="text/css" />
+        <link rel="stylesheet" href="../../static/css/bootstrap/bootstrap.min.css" type="text/css" />
+        <link rel="stylesheet" href="../../static/css/bootstrap/bootstrap-theme.min.css" type="text/css" />
+        <link rel="stylesheet" href="../../static/css/bootstrap/dspace-theme.css" type="text/css" />
+        <link rel="stylesheet" href="../../static/css/bootstrap/dlcorp.css" type="text/css" />
+        <link rel="stylesheet" href="../../js/hover.css" type="text/css" />
+		<!-- bxSlider CSS file -->
+<link href="../../js/slidershow/jquery.bxslider.css" rel="stylesheet" />
+
+        <link rel="search" type="application/opensearchdescription+xml" href="../../open-search/description.xml" title="DSpace"/>
+
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.creator" content="Vũ, Thị Thúy Hà" xml:lang="vi" />
+<meta name="DC.creator" content="Trần, Hà Nguyên" xml:lang="vi" />
+<meta name="DCTERMS.dateAccepted" content="2023-07-27T03:52:26Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.available" content="2023-07-27T03:52:26Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.issued" content="2022" scheme="DCTERMS.W3CDTF" />
+<meta name="DC.identifier" content="http://dlib.ptit.edu.vn/handle/HVCNBCVT/3387" scheme="DCTERMS.URI" />
+<meta name="DCTERMS.abstract" content="Nội dung bài giảng gồm được chia làm 4 chương:&#xD;&#xA;Chương 1: Đại cương về các hệ cơ sở dữ liệu&#xD;&#xA;Giới thiệu tổng quan về lý thuyết cơ sở dữ liệu, hệ quản trị cơ sở dữ liệu, hệ cơ sở&#xD;&#xA;dữ liệu, kiến trúc của một hệ quản trị CSDL, phân loại các hệ CSDL.&#xD;&#xA;Chương 2: Mô hình dữ liệu&#xD;&#xA;Trình bày tổng quan về các loại mô hình dữ liệu, đặc biệt đi sâu phân tích mô hình&#xD;&#xA;quan hệ thực thể E-R (Entity Relationship) để mô hình hóa các hoạt động trong thế giới&#xD;&#xA;thực, nhìn thế giới thực như là một tập các đối tượng căn bản được gọi là các thực thể&#xD;&#xA;và các mối quan hệ ở giữa các đối tượng này. Nội dung chương 2 còn trình bày mô hình&#xD;&#xA;dữ liệu quan hệ, các quy tắc chuyển đổi cơ sở dữ liệu từ E-R sang mô hình dữ liệu quan&#xD;&#xA;hệ, các phép toán trên CSDL quan hệ.&#xD;&#xA;Chương 3: Ngôn ngữ định nghĩa và thao tác dữ liệu đối với mô hình quan hệ&#xD;&#xA;Trình bày các ngôn ngữ truy vấn trên cơ sở dữ liệu. Nội dung chương phân tích chi&#xD;&#xA;tiết ngôn ngữ đại số quan hệ và ngôn ngữ truy vấn SQL.&#xD;&#xA;Chương 4: Lý thuyết thiết kế cơ sở dữ liệu quan hệ&#xD;&#xA;Trình bày các khái niệm liên quan đến phụ thuộc hàm, khóa, các thuật toán tìm phủ&#xD;&#xA;tối thiểu của tập phụ thuộc hàm, tìm khóa, phép tách và các dạng chuẩn hóa của lược đồ&#xD;&#xA;quan hệ." xml:lang="vi" />
+<meta name="DC.format" content="PDF" xml:lang="vi" />
+<meta name="DC.language" content="vi" xml:lang="vi" scheme="DCTERMS.RFC1766" />
+<meta name="DC.publisher" content="Học viện công nghệ Bưu chính Viễn thông" xml:lang="vi" />
+<meta name="DC.subject" content="Cơ sở dữ liệu" xml:lang="vi" />
+<meta name="DC.subject" content="Hệ quản trị cơ sở dữ liệu" xml:lang="vi" />
+<meta name="DC.subject" content="Điện tử viễn thông" xml:lang="vi" />
+<meta name="DC.title" content="Bài giảng Cơ sở dữ liệu" xml:lang="vi" />
+<meta name="DC.type" content="Bài giảng" xml:lang="vi" />
+
+<meta name="citation_keywords" content="Cơ sở dữ liệu; Hệ quản trị cơ sở dữ liệu; Điện tử viễn thông; Bài giảng" />
+<meta name="citation_title" content="Bài giảng Cơ sở dữ liệu" />
+<meta name="citation_publisher" content="Học viện công nghệ Bưu chính Viễn thông" />
+<meta name="citation_language" content="vi" />
+<meta name="citation_date" content="2022" />
+<meta name="citation_abstract_html_url" content="3387.html" />
+
+
+        
+        <script type='text/javascript' src="../../static/js/jquery/jquery-1.10.2.min.js"></script>
+        <script type='text/javascript' src='../../static/js/jquery/jquery-ui-1.10.3.custom.min.js'></script>
+        <!--<script type='text/javascript' src='/static/js/bootstrap/bootstrap.min.js'></script>-->
+        <script type='text/javascript' src='../../static/js/holder.js'></script>
+        <script type="text/javascript" src="../../utils.js"></script>
+        <script type="text/javascript" src="../../static/js/choice-support.js"> </script>
+        <script type="text/javascript" src="../../js/pagilion.js"> </script>
+		<script type="text/javascript" src="../../static/js/jquery.simplePagination.js"></script>
+		
+		<!-- Chart -->
+		    <!-- jQuery -->
+    <!--<script src="/js/vendors/jquery/dist/jquery.min.js"></script>-->
+    <!-- Bootstrap -->
+    <script src="../../js/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- FastClick -->
+    <script src="../../js/vendors/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="../../js/vendors/nprogress/nprogress.js"></script>
+    <!-- Chart.js -->
+    <script src="../../js/vendors/Chart.js/dist/Chart.min.js"></script>
+    <!-- gauge.js -->
+    <script src="../../js/vendors/bernii/gauge.js/dist/gauge.min.js"></script>
+    <!-- bootstrap-progressbar -->
+    <script src="../../js/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <!-- iCheck -->
+    <script src="../../js/vendors/iCheck/icheck.min.js"></script>
+    <!-- Skycons -->
+    <script src="../../js/vendors/skycons/skycons.js"></script>
+    <!-- Flot -->
+    <script src="../../js/vendors/Flot/jquery.flot.js"></script>
+    <script src="../../js/vendors/Flot/jquery.flot.pie.js"></script>
+    <script src="../../js/vendors/Flot/jquery.flot.time.js"></script>
+    <script src="../../js/vendors/Flot/jquery.flot.stack.js"></script>
+    <script src="../../js/vendors/Flot/jquery.flot.resize.js"></script>
+    <!-- Flot plugins -->
+    <script src="../../js/js/flot/jquery.flot.orderBars.js"></script>
+    <script src="../../js/js/flot/date.js"></script>
+    <script src="../../js/js/flot/jquery.flot.spline.js"></script>
+    <script src="../../js/js/flot/curvedLines.js"></script>
+    <!-- jVectorMap -->
+    <script src="../../js/js/maps/jquery-jvectormap-2.0.3.min.js"></script>
+    <!-- bootstrap-daterangepicker -->
+    <script src="../../js/js/moment/moment.min.js"></script>
+    <script src="../../js/js/datepicker/daterangepicker.js"></script>
+
+    <!-- Custom Theme Scripts -->
+    <script src="../../js/js/custom.js"></script>
+	<!-- jVectorMap -->
+    <script src="../../js/js/maps/jquery-jvectormap-world-mill-en.js"></script>
+    <script src="../../js/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+    	<!-- jQuery Sparklines -->
+    <script src="../../js/vendors/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+	<!--Admin-->
+	<link rel="stylesheet" type="text/css" href="../../js/jsadmin/css/dark-glass/sidebar.css" />
+        <!--<script type="text/javascript" src="/js/jsadmin/js/jqueryadmin.min.js"></script>-->
+        <script type="text/javascript" src="../../js/jsadmin/src/jquery.sidebar.js"></script>
+		<!-- bxSlider Javascript file -->
+<script src="../../js/slidershow/jquery.bxslider.min.js"></script>
+		
+        
+
+
+    
+    
+
+
+    
+    
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="/static/js/html5shiv.js"></script>
+  <script src="/static/js/respond.min.js"></script>
+<![endif]-->
+    </head>
+
+    
+    
+    <body class="undernavigation" style="padding-top: 0px;background-color: white;">
+<a class="sr-only" href="#content">Skip navigation</a>
+<header class="navbar navbar-inverse navbar-fixed-top" style="position: inherit;background-image: linear-gradient(to bottom,#efefef 0,#efefef 100%);margin-bottom: 0px;box-shadow: none;background: white;border-color: white">    
+    
+            <div class="container">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Web Interface-->
+<div class="web-interface">
+	   
+       <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+
+
+ 
+    <div class="nav navbar-nav navbar-right">
+	 <ul class="nav navbar-nav navbar-right">
+	 <li class="dropdown" >
+	 <a href="http://portal.ptit.edu.vn/" target="_blank" style="color:#333333">Cổng thông tin Thư viện</a>
+	 </li>
+	 <li  class="dropdown" style="font-size: 25px;margin-top: 5px;">
+	 |
+	 </li>
+	 <li  class="dropdown">
+	 <a href="#" target="_blank" style="color:#333333">Sitemap</a>
+	 </li>
+      <li class="dropdown">
+        <ul style="display: inline-flex;padding-left: 0px;">
+ 
+      <li style="list-style-type: none;margin-top: 12px;padding-right: 3px;">
+        <a onclick="javascript:document.repost.locale.value='vi';
+                  document.repost.submit();" href="338775fc.html?locale=vi">
+        <img src="../../img/vi.png"> 
+       </a>
+      </li>
+ 
+      <li style="list-style-type: none;margin-top: 12px;padding-right: 3px;">
+        <a onclick="javascript:document.repost.locale.value='en';
+                  document.repost.submit();" href="33877038.html?locale=en">
+        <img src="../../img/en.png"> 
+       </a>
+      </li>
+ 
+     </ul>
+    </li>
+    </ul>
+  </div>
+ 
+ 
+       <div class="nav navbar-nav navbar-right">
+		<ul class="nav navbar-nav navbar-right">
+
+          </ul>
+          
+	</div>
+    </nav>
+</div>
+<!--Mobile Interface-->
+<div class="mobile-interface">
+	   
+       <nav class="navbar-collapse bs-navbar-collapse" role="navigation" style="border-color: #efefef;height: 60px;">
+
+
+ 
+    <div class="nav navbar-nav navbar-right">
+	 <ul class="nav navbar-nav navbar-right" style="display: -webkit-box;">
+	 <li class="dropdown" >
+	 <a href="http://portal.ptit.edu.vn/" target="_blank" style="color:#333333">Cổng thông tin Thư viện</a>
+	 </li>
+	 <li  class="dropdown" style="font-size: 25px;">
+	 |
+	 </li>
+	 <li  class="dropdown">
+	 <a href="#" target="_blank" style="color:#333333">Sitemap</a>
+	 </li>
+      <li class="dropdown">
+        <ul style="display: inline-flex;padding-left: 0px;">
+ 
+      <li style="list-style-type: none;margin-top: 8px;padding-right: 3px;">
+        <a onclick="javascript:document.repost.locale.value='vi';
+                  document.repost.submit();" href="338775fc.html?locale=vi">
+        <img src="../../img/vi.png"> 
+       </a>
+      </li>
+ 
+      <li style="list-style-type: none;margin-top: 8px;padding-right: 3px;">
+        <a onclick="javascript:document.repost.locale.value='en';
+                  document.repost.submit();" href="33877038.html?locale=en">
+        <img src="../../img/en.png"> 
+       </a>
+      </li>
+ 
+     </ul>
+    </li>
+    </ul>
+  </div>
+ 
+ 
+       <div class="nav navbar-nav navbar-right">
+		<ul class="nav navbar-nav navbar-right">
+
+          </ul>
+          
+	</div>
+    </nav>
+</div>
+            </div>
+
+</header>
+
+<main id="content" role="main" style="padding-bottom: 0px;">
+<!--Web Interface-->
+<div class="web-interface">
+<div class="banner">
+    <div class = "container">
+	<div class="row">
+			<a href="../../index.html"><img src="../../img/Banner.png" style="background: transparent;margin-top: -6px;margin-left: 0px;width: 100%;margin-bottom: 0px;margin-right: 0px;padding: 0px;"></a>
+    <div class="col-md-12" style="background-image: linear-gradient(to bottom,#e6e6e6 0,#fff 100%);">
+	<ul style="display: inline-flex;padding-left: 0px;margin-bottom: 0px;">
+	<li class="menu-header" style="border-right: 1px solid black;">
+	<a href="../../index.html" class="menu-link">TRANG CH&#7910;</a>
+	</li>
+		<li class="menu-header" style="border-right: 1px solid black;">
+	<a href="../../browseff5c.html?type=author" class="menu-link">DUY&#7878;T THEO</a>
+	</li>
+		<li class="menu-header" style="border-right: 1px solid black;">
+	<a href="../../help/help_vi.html" class="menu-link" >TR&#7906; GI&#218;P</a>
+	</li>
+		<li class="menu-header">
+	<a href="../../contact.html" class="menu-link" >LI&#202;N H&#7878;</a>
+	</li>
+	</ul>
+	<ul class="navbar-right" style="padding-left: 0px;margin-bottom: 0px;">
+                   <li class="dropdown" style="margin-top: 3px;list-style: none;">
+         
+             <a href="#" class="menu-link dropdown-toggle" data-toggle="dropdown" class="menu-link"><span class="glyphicon glyphicon-user" style="color:black;"></span> Đăng nhập <!--<b class="caret"></b>--></a>
+	             
+             <ul class="dropdown-menu">
+               <li><a href="../../password-loginf17b.html">Trang cá nhân</a></li>
+               <li><a href="../../password-loginca26.html">Đăng ký nhận thông báo email</a></li>
+               <li><a href="../../password-loginadc4.html">Thông tin cá nhân</a></li>
+
+		
+             </ul>
+           </li>   
+	</ul>
+	</div>
+	<div class="col-md-12" style="background-image: linear-gradient(to bottom,#fcfcfc 0,#ededed 100%);height: 55px;border: 1px groove rgba(252, 252, 252, 0.6);">
+
+	<form id="search" method="get" action="https://dlib.ptit.edu.vn/simple-search" class="navbar-form navbar-left" style="padding-left: 0px;width:100%">
+			<input type="hidden" value="" name="location">
+	    <div class="form-group" style="width: 88%;">
+		<select onchange="jsfunc1()" id="filtername" name="filtername" style="border-bottom-right-radius: 0px;border-top-right-radius: 0px;border: 2px inset;width: 10%;height: 34px;margin-top: -1px;">
+		<option value="all">T&#7845;t c&#7843;</option><option value="title">Nhan &#273;&#7873;</option><option value="author">T&#225;c gi&#7843;</option><option value="advisor">Ng&#432;&#7901;i h&#432;&#7899;ng d&#7851;n</option><option value="subject">Ch&#7911; &#273;&#7873;</option><option value="dateIssued">N&#259;m xu&#7845;t b&#7843;n</option>
+		</select>
+		<input type="text" id="query1" value="" name="query" class="form-control" style="border-bottom-right-radius: 0px;border-top-right-radius: 0px;border: 2px inset;width: 89%;margin-top: -2px;" placeholder="Nhập&nbsp;từ khóa tìm kiếm" size="80">
+		 <input type="hidden" value="contains" id="filtertype1" name="filtertype" disabled>
+          <input type="hidden" class="form-control" style="border-bottom-right-radius: 0px;border-top-right-radius: 0px;border: 2px inset;width: auto;margin-top: -2px;" placeholder="Nhập&nbsp;từ khóa tìm kiếm" id="filterquery1" name="filterquery" size="100"/>
+        <input type="hidden" value="10" name="rpp">
+		<input type="hidden" value="score" name="sort_by">
+		<input type="hidden" value="desc" name="order">
+		</div>
+        <button type="submit" class="btn btn-danger" style="margin-left: -10px;border-bottom-left-radius: 0px;border-top-left-radius: 0px;">T&#236;m ki&#7871;m</button>
+
+	</form>
+	<script>
+	function jsfunc1(){
+	if(document.getElementById('filtername').value == "all") {
+     		 jQuery('#search').find('#filterquery1').prop("type", "hidden");
+	 jQuery('#search').find('#query1').prop("type", "text");
+	 }else{
+	  jQuery('#search').find('#query1').prop("type", "hidden");
+	 jQuery('#search').find('#filterquery1').prop("type", "text");
+	 document.getElementById("filtertype1").disabled = false;
+	 }
+
+	}
+	</script>
+	<!--<div class="col-md-2" style="margin-top: 8px;">
+	<a class="btn btn-warning" href="/submit" style="float:right;">Upload<span class="glyphicon glyphicon-arrow-up"></span></a>
+	</div>-->
+	</div>
+	</div>
+	</div>
+</div>
+</div>
+
+
+<!--Mobile Interface-->
+<div class="mobile-interface">
+<div class="banner">
+    <div class = "container">
+	<div class="row">
+			<a href="../../index.html"><img src="../../img/Banner.png" style="background: transparent;margin-top: -6px;margin-left: 0px;width: 100%;margin-bottom: 0px;margin-right: 0px;padding: 0px;"></a>
+    <div class="col-md-12" style="background-color: #d74d49;">
+	<ul style="display: inline-flex;padding-left: 0px;margin-bottom: 0px;width: 100%;">		   
+		   <li style="font-size: 20px;font-weight: bolder; list-style-type:none;width:100%">
+		   <a href="javascript:void(0);" class="icon" onclick="myFunction()" style="color: white;">&#9776;</a>
+		   <script>
+		   /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+		   </script>
+		   </li>
+
+                   <li class="dropdown" style="margin-top: 3px; width:38%">
+         
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#ffffff"><span class="glyphicon glyphicon-user" style="color:#fffed8;"></span> Đăng nhập <b class="caret"></b></a>
+	             
+             <ul class="dropdown-menu">
+               <li><a href="../../password-loginf17b.html">Trang cá nhân</a></li>
+               <li><a href="../../password-loginca26.html">Đăng ký nhận thông báo email</a></li>
+               <li><a href="../../password-loginadc4.html">Thông tin cá nhân</a></li>
+
+		
+             </ul>
+           </li> 
+		   </ul>
+	<div class="topnav" id="myTopnav">
+	<a href="../../index.html" style="color:#ffffff">TRANG CH&#7910;</a>
+	<a href="../../browseff5c.html?type=author" style="color:#ffffff">DUY&#7878;T THEO</a>
+	<a href="../../help/help_vi.html" style="color:#ffffff">TR&#7906; GI&#218;P</a>
+	<a href="../../contact.html" style="color:#ffffff">LI&#202;N H&#7878;</a>
+	</div>
+	</div>
+	<div class="col-md-12" style="background-image: linear-gradient(to bottom,#fcfcfc 0,#ededed 100%);height: 55px;border: 1px groove rgba(252, 252, 252, 0.6);">
+
+<div class="col-md-12" style="margin-top: -9px;">
+	<form id="search" method="get" action="https://dlib.ptit.edu.vn/simple-search" class="navbar-form navbar-left" style="padding-left: 0px;">
+			<input type="hidden" value="" name="location">
+	    <div class="form-group" style="display: inline-flex;">
+		<select onchange="jsfunc1()" id="filtername" name="filtername" style="border-bottom-right-radius: 0px;border-top-right-radius: 0px;border: 2px inset;width: auto;height: 34px;margin-top: -1px;">
+		<option value="all">T&#7845;t c&#7843;</option><option value="title">Nhan &#273;&#7873;</option><option value="author">T&#225;c gi&#7843;</option><option value="advisor">Ng&#432;&#7901;i h&#432;&#7899;ng d&#7851;n</option><option value="subject">Ch&#7911; &#273;&#7873;</option><option value="dateIssued">N&#259;m xu&#7845;t b&#7843;n</option>
+		</select>
+		<input type="text" id="query1" value="" name="query" class="form-control" style="border-bottom-right-radius: 0px;border-top-right-radius: 0px;border: 2px inset;width: auto;margin-top: -2px;" placeholder="Nhập&nbsp;từ khóa tìm kiếm" size="20">
+		 <input type="hidden" value="contains" id="filtertype1" name="filtertype" disabled>
+          <input type="hidden" class="form-control" style="border-bottom-right-radius: 0px;border-top-right-radius: 0px;border: 2px inset;width: auto;margin-top: -2px;" placeholder="Nhập&nbsp;từ khóa tìm kiếm" id="filterquery1" name="filterquery" size="100"/>
+        <input type="hidden" value="10" name="rpp">
+		<input type="hidden" value="score" name="sort_by">
+		<input type="hidden" value="desc" name="order">
+		</div>
+        <!--<button type="submit" class="btn btn-danger" style="margin-left: -4px;border-bottom-left-radius: 0px;border-top-left-radius: 0px;">T&#236;m ki&#7871;m</button>-->
+
+	</form>
+	<script>
+	function jsfunc1(){
+	if(document.getElementById('filtername').value == "all") {
+     		 jQuery('#search').find('#filterquery1').prop("type", "hidden");
+	 jQuery('#search').find('#query1').prop("type", "text");
+	 }else{
+	  jQuery('#search').find('#query1').prop("type", "hidden");
+	 jQuery('#search').find('#filterquery1').prop("type", "text");
+	 document.getElementById("filtertype1").disabled = false;
+	 }
+
+	}
+	</script>
+	</div>
+	<!--<div class="col-md-2" style="margin-top: 8px;">
+	<a class="btn btn-warning" href="/submit" style="float:right;">Upload<span class="glyphicon glyphicon-arrow-up"></span></a>
+	</div>-->
+	</div>
+	</div>
+	</div>
+</div>
+</div>
+        
+<div class="container" style="margin-top: 18px;padding-left: 0px;padding-right: 0px;background: white;box-shadow: 1px 1px 1px 1px #bfbfbf;">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script type="text/javascript" src="../../js/jsadmin/js/jqueryadmin-ui.min.js"></script>
+
+
+		
+		
+		
+		
+                
+                
+                <!--<div class="well">Vui lòng sử dụng định danh này để trích dẫn hoặc liên kết đến tài liệu: 
+                <code>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3387</code></div>-->
+                
+                <!--purchase addon - CSS and JS - preprocessing-->
+                <link rel="stylesheet" type="text/css" href="../../purchase/static/purchase-addon.css"/>
+                <link rel="stylesheet" type="text/css" href="../../dlstatic/css/datatables/dataTables.bootstrap.css"/>
+                <script src="../../dlstatic/js/bootbox.min.js" type="text/javascript"></script>
+                <script src="../../purchase/static/plugin/jsvar.html" type="text/javascript"></script>
+                <script type="text/javascript">
+                    var $handle = 'HVCNBCVT/3387';
+                </script>
+
+                <!--purchase addon - HTML-->
+                <div id="purc-addon-div"></div>
+                
+
+                <!--purchase addon - JS - processing-->
+                <script src="../../dlstatic/js/plugins/datatables/jquery.dataTables.min.js" type="text/javascript"></script>
+                <script src="../../dlstatic/js/plugins/datatables/dataTables.bootstrap.min.js" type="text/javascript"></script>
+                <script type="text/javascript" src="../../purchase/static/purchase-addon.js"></script>
+<div class="col-md-12 btn btn-default" style="margin-top: 18px;margin-left: 18px;width: 97%;"><p style="float: left;margin-bottom: 0px;">Thông tin tài liệu</p></div>
+
+
+
+
+    
+    <div class="display-item row">
+<div class="col-md-2 item-disp">
+<br/><p align="center">
+<img src="../../retrieve/8102b39a-7975-4d56-8e0d-0b60fa5971b9/BG%20Co%20so%20du%20lieu%202022.pdf.jpg"/>
+</p>
+</div>
+<div class="col-md-8 item-disp">
+<table class="table itemDisplayTable">
+<tr><td style="border: none; white-space: nowrap; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldLabel dc_title">Nhan đề :&nbsp;</td><td style="border: none; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldValue dc_title">Bài&#x20;giảng&#x20;Cơ&#x20;sở&#x20;dữ&#x20;liệu</a></td></tr>
+<tr><td style="border: none; white-space: nowrap; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldLabel dc_contributor">Tác giả:&nbsp;</td><td style="border: none; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldValue dc_contributor"><a class="author"href="../../browse2a18.html?type=author&amp;value=V%C5%A9%2C+Th%E1%BB%8B+Th%C3%BAy+H%C3%A0">Vũ,&#x20;Thị&#x20;Thúy&#x20;Hà</a><br /><a class="author"href="../../browsecb8a.html?type=author&amp;value=Tr%E1%BA%A7n%2C+H%C3%A0+Nguy%C3%AAn">Trần,&#x20;Hà&#x20;Nguyên</a></td></tr>
+<tr><td style="border: none; white-space: nowrap; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldLabel dc_date_issued">Năm xuất bản :&nbsp;</td><td style="border: none; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldValue dc_date_issued">2022</td></tr>
+<tr><td style="border: none; white-space: nowrap; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldLabel dc_publisher">Nhà xuất bản :&nbsp;</td><td style="border: none; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldValue dc_publisher">Học&#x20;viện&#x20;công&#x20;nghệ&#x20;Bưu&#x20;chính&#x20;Viễn&#x20;thông</a></td></tr>
+<tr><td style="border: none; white-space: nowrap; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldLabel dc_description_abstract">Tóm tắt :&nbsp;</td><td style="border: none; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldValue dc_description_abstract">Nội&#x20;dung&#x20;bài&#x20;giảng&#x20;gồm&#x20;được&#x20;chia&#x20;làm&#x20;4&#x20;chương:&#x0D;&#x0A;Chương&#x20;1:&#x20;Đại&#x20;cương&#x20;về&#x20;các&#x20;hệ&#x20;cơ&#x20;sở&#x20;dữ&#x20;liệu&#x0D;&#x0A;Giới&#x20;thiệu&#x20;tổng&#x20;quan&#x20;về&#x20;lý&#x20;thuyết&#x20;cơ&#x20;sở&#x20;dữ&#x20;liệu,&#x20;hệ&#x20;quản&#x20;trị&#x20;cơ&#x20;sở&#x20;dữ&#x20;liệu,&#x20;hệ&#x20;cơ&#x20;sở&#x0D;&#x0A;dữ&#x20;liệu,&#x20;kiến&#x20;trúc&#x20;của&#x20;một&#x20;hệ&#x20;quản&#x20;trị&#x20;CSDL,&#x20;phân&#x20;loại&#x20;các&#x20;hệ&#x20;CSDL.&#x0D;&#x0A;Chương&#x20;2:&#x20;Mô&#x20;hình&#x20;dữ&#x20;liệu&#x0D;&#x0A;Trình&#x20;bày&#x20;tổng&#x20;quan&#x20;về&#x20;các&#x20;loại&#x20;mô&#x20;hình&#x20;dữ&#x20;liệu,&#x20;đặc&#x20;biệt&#x20;đi&#x20;sâu&#x20;phân&#x20;tích&#x20;mô&#x20;hình&#x0D;&#x0A;quan&#x20;hệ&#x20;thực&#x20;thể&#x20;E-R&#x20;(Entity&#x20;Relationship)&#x20;để&#x20;mô&#x20;hình&#x20;hóa&#x20;các&#x20;hoạt&#x20;động&#x20;trong&#x20;thế&#x20;giới&#x0D;&#x0A;thực,&#x20;nhìn&#x20;thế&#x20;giới&#x20;thực&#x20;như&#x20;là&#x20;một&#x20;tập&#x20;các&#x20;đối&#x20;tượng&#x20;căn&#x20;bản&#x20;được&#x20;gọi&#x20;là&#x20;các&#x20;thực&#x20;thể&#x0D;&#x0A;và&#x20;các&#x20;mối&#x20;quan&#x20;hệ&#x20;ở&#x20;giữa&#x20;các&#x20;đối&#x20;tượng&#x20;này.&#x20;Nội&#x20;dung&#x20;chương&#x20;2&#x20;còn&#x20;trình&#x20;bày&#x20;mô&#x20;hình&#x0D;&#x0A;dữ&#x20;liệu&#x20;quan&#x20;hệ,&#x20;các&#x20;quy&#x20;tắc&#x20;chuyển&#x20;đổi&#x20;cơ&#x20;sở&#x20;dữ&#x20;liệu&#x20;từ&#x20;E-R&#x20;sang&#x20;mô&#x20;hình&#x20;dữ&#x20;liệu&#x20;quan&#x0D;&#x0A;hệ,&#x20;các&#x20;phép&#x20;toán&#x20;trên&#x20;CSDL&#x20;quan&#x20;hệ.&#x0D;&#x0A;Chương&#x20;3:&#x20;Ngôn&#x20;ngữ&#x20;định&#x20;nghĩa&#x20;và&#x20;thao&#x20;tác&#x20;dữ&#x20;liệu&#x20;đối&#x20;với&#x20;mô&#x20;hình&#x20;quan&#x20;hệ&#x0D;&#x0A;Trình&#x20;bày&#x20;các&#x20;ngôn&#x20;ngữ&#x20;truy&#x20;vấn&#x20;trên&#x20;cơ&#x20;sở&#x20;dữ&#x20;liệu.&#x20;Nội&#x20;dung&#x20;chương&#x20;phân&#x20;tích&#x20;chi&#x0D;&#x0A;tiết&#x20;ngôn&#x20;ngữ&#x20;đại&#x20;số&#x20;quan&#x20;hệ&#x20;và&#x20;ngôn&#x20;ngữ&#x20;truy&#x20;vấn&#x20;SQL.&#x0D;&#x0A;Chương&#x20;4:&#x20;Lý&#x20;thuyết&#x20;thiết&#x20;kế&#x20;cơ&#x20;sở&#x20;dữ&#x20;liệu&#x20;quan&#x20;hệ&#x0D;&#x0A;Trình&#x20;bày&#x20;các&#x20;khái&#x20;niệm&#x20;liên&#x20;quan&#x20;đến&#x20;phụ&#x20;thuộc&#x20;hàm,&#x20;khóa,&#x20;các&#x20;thuật&#x20;toán&#x20;tìm&#x20;phủ&#x0D;&#x0A;tối&#x20;thiểu&#x20;của&#x20;tập&#x20;phụ&#x20;thuộc&#x20;hàm,&#x20;tìm&#x20;khóa,&#x20;phép&#x20;tách&#x20;và&#x20;các&#x20;dạng&#x20;chuẩn&#x20;hóa&#x20;của&#x20;lược&#x20;đồ&#x0D;&#x0A;quan&#x20;hệ.</a></td></tr>
+<tr><td style="border: none; white-space: nowrap; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldLabel dc_identifier_uri">URI:&nbsp;</td><td style="border: none; padding-top: 3px; padding-bottom: 3px;" class=" metadataFieldValue dc_identifier_uri"><a href="3387.html">http:&#x2F;&#x2F;dlib.ptit.edu.vn&#x2F;handle&#x2F;HVCNBCVT&#x2F;3387</a></td></tr>
+<tr><td style="border: none;  white-space: nowrap;" class="metadataFieldLabel">Trong bộ sưu tập: </td><td style="border: none;" class="metadataFieldValue"><a href="362.html">BÀI GIẢNG KHOA VIỄN THÔNG</a><br/></td></tr>
+</table> </div>
+<div class="col-md-2 item-disp">
+<div class="col-xs-6 col-sm-12 item-stat-col"><div class="item-stat col-md-12"> <span class="font-right-side-item">XEM M&#212; T&#7842;</span><h3 style="color: #159277;">3321</h3>
+<span class="sparkline_one graph" style="height: 160px;">
+  <canvas width="200" height="60" style="display: inline-block; vertical-align: top; width: 94px; height: 30px;"></canvas>
+  </span></div><div class="bitstream-stat col-md-12"> <span class="font-right-side-item">XEM & T&#7842;I</span><h3 style="color: #7D0141;">20</h3>
+<span class="sparkline_two graph" style="height: 160px;">
+  <canvas width="200" height="60" style="display: inline-block; vertical-align: top; width: 94px; height: 30px;"></canvas>
+  </span></div></div></div>
+</div>
+<div class="col-md-12 btn btn-default" style="margin-top: 18px;margin-left: 18px;width: 97%;">Danh sách tệp tin đính kèm:</div>
+<table class="table panel-body">
+<div class="display-bit row"> <div class="image-item col-md-2">
+<a href="#"><img src="../../retrieve/8102b39a-7975-4d56-8e0d-0b60fa5971b9/BG%20Co%20so%20du%20lieu%202022.pdf.jpg" alt="Ảnh bìa" /></a><br /></div>
+<div class="image-item col-md-6"><li headers="t1" class="standard title-bit break-all"><a style="color: black;font-weight: bolder;" href="#">BG Co so du lieu 2022.pdf</a><br /><i class="label label-info"><span class="glyphicon glyphicon-lock"> </span>&nbsp; Restricted Access</i></li><li headers="t2" class="standard des-bit break-all"></li><li class="fomat-type standard"><ul style="display: inline-flex;padding-left: 0px;"><li headers="t3" class="fomat-size standard"><p><i style="color: #888888;">Dung lượng : </i>6,18 MB</p></li><li headers="t4" class="type-bit standard"><p><i style="color: #888888;">Định dạng  : </i>Adobe PDF</p></li></ul></li></ul></div><div style="margin-top: 40px;" class="image-item col-md-4">
+<a style="margin-left: 12px;" class="btn btn-success col-md-5" href="../../request-item4c96.html?handle=HVCNBCVT/3387&amp;bitstream-id=bd2339f4-dad4-4960-a1eb-91de1aa07d2c">&#272;&#259;ng nh&#7853;p &#273;&#7875; SD</a></div></div></table>
+
+<div class="container row">
+
+
+    <a class="btn btn-default" href="3387409d.html?mode=full">
+        Hiển thị chi tiết
+    </a>
+
+   <!-- <a class="statisticsLink  btn btn-primary" href="/handle/HVCNBCVT/3387/statistics">Thống kê truy cập</a>-->
+
+    
+
+</div>
+<br/>
+    
+
+<br/>
+
+<script type="text/javascript">
+      $(document).ready(function() {
+        $(".sparkline_one").sparkline([71, 184, 365, 149, 428, 409, 242, 249, 322, 614, 158, 130], {
+          type: 'bar',
+          height: '40',
+          barWidth: 6,
+          colorMap: {
+            '7': '#159277'
+          },
+          barSpacing: 2,
+          barColor: '#159277'
+        });
+		
+	  $(".sparkline_two").sparkline([7, 5, 0, 0, 8, 0, 2, 2, 0, 22, 0, 6], {
+          type: 'bar',
+          height: '40',
+          barWidth: 6,
+          colorMap: {
+            '7': '#7D0141'
+          },
+          barSpacing: 2,
+          barColor: '#7D0141'
+        });
+
+      });
+	  </script>
+    
+
+    <!--<p class="submitFormHelp alert alert-info">Khi sử dụng tài liệu trong thư viện số bạn đọc phải tuân thủ đầy đủ luật bản quyền. </p>-->
+	<p class="submitFormHelp alert alert-info">Xin lỗi! Thư viện chưa thể cung cấp tài liệu bạn yêu cầu vì bạn không thuộc đối tượng phục vụ tài liệu số dạng toàn văn. Bạn có thể tham khảo bản in của tài liệu này tại Phòng đọc Thư viện (Tầng 1 - Nhà A3 hoặc gửi email yêu cầu về địa chỉ: <a href="mailto:ilc@ptit.edu.vn" target="_blank">ilc@ptit.edu.vn</a>)</p>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+</div>
+</main>
+            
+             <footer class="navbar navbar-inverse navbar-bottom" style="background-image: linear-gradient(to bottom,#efefef 0,#efefef 100%);border-color: #efefef;box-shadow: none; margin-top:25px;border-bottom: 5px solid #d30000;background-color: #efefef;">
+			<div class="container" style="padding-left: 0px;padding-right: 0px; margin-top:10px;margin-bottom: 30px;">
+			 <div class="col-md-9" style="padding-left:0px;">
+              <div id="designedby" class="container text-muted" style="text-align: left;padding-left: 0px;color: #033333;">
+			   <p style="font-size: 18px;"><b>TRUNG TÂM THÔNG TIN THƯ VIỆN – HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG</b></p>
+			    <div class="col-md-6" style="padding-left: 0px;">
+				<p class="line-footer"><b>Trụ sở chính:</b></p>
+				<p>122 Hoàng Quốc Việt, Q.Cầu Giấy, Hà Nội</p>
+				<p class="line-footer"><b>Cơ sở đào tạo tại Hà Nội</b></p>
+				<p>Km10, Đường Nguyễn Trãi, Q.Hà Đông, Hà Nội</p>
+				</div>
+				<div class="col-md-6" style="padding-left: 0px;">
+				<p class="line-footer"><b>Học viện cơ sở tại TP Hồ Chí Minh</b></p>
+				<p>11 Nguyễn Đình Chiểu, P.Đa Kao, Q.1 TP Hồ Chí Minh</p>
+				<p class="line-footer"><b>Cơ sở đào tạo tại TP Hồ Chí Minh</b></p>
+				<p>Đường Man Thiên, P.Hiệp Phú, Q.9 TP Hồ Chí Minh</p>
+				</div>
+			  </div>
+			 </div>
+			 <div class="col-md-3">
+			  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.2987838802364!2d105.78523931534514!3d20.98065699479372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135accdcf7b0bd1%3A0xc1cf5dd00247628a!2zSOG7jWMgVmnhu4duIEPDtG5nIG5naOG7hyBCxrB1IENow61uaCBWaeG7hW4gVGjDtG5n!5e0!3m2!1sen!2s!4v1535336396347" width="100%" height="100%" frameborder="0" style="border: 1px solid gray;" allowfullscreen></iframe>
+			 </div>
+			</div>
+    </footer>
+    </body>
+
+<!-- Mirrored from dlib.ptit.edu.vn/handle/HVCNBCVT/3387 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Mar 2026 14:48:13 GMT -->
+</html>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Thư viện số Bộ sưu tập: Bao gồm các bài giảng của Khoa Kỹ thuật Điện tử biên soạn cho các môn học trong chương trình đào tạo</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/348</link>
+    <description>Bao gồm các bài giảng của Khoa Kỹ thuật Điện tử biên soạn cho các môn học trong chương trình đào tạo</description>
+    <pubDate>Thu, 12 Mar 2026 14:59:08 GMT</pubDate>
+    <dc:date>2026-03-12T14:59:08Z</dc:date>
+    <item>
+      <title>Bài giảng Linh kiện và mạch điện tử</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/4476</link>
+      <description>Nhan đề : Bài giảng Linh kiện và mạch điện tử
+Tác giả: Trần, Thị Thục Linh
+Tóm tắt : Nội dung của bài giảng được trình bày một cách rõ ràng, có hệ thống các kiến thức cơ bản và hiện đại về các linh kiện và mạch điện tử đang sử dụng phổ biến trong ngành Điện, Điện tử, Viễn thông, và CNTT.&#xD;
+Bài giảng "Linh kiện và mạch điện tử" gồm 7 chương:&#xD;
++ Chương 0: Giới thiệu chung về linh kiện và mạch điện tử. &#xD;
++ Chương 1: Linh kiện điện tử thụ động&#xD;
++ Chương 2: Linh kiện bán dẫn&#xD;
+1&#xD;
+THƯ VIỆN PTIT&#xD;
+Bài giảng: Linh kiện và mạch điện tử&#xD;
++ Chương 3: Mạch khuếch đại bán dẫn&#xD;
++ Chương 4: Mạch tạo dao động điều hòa&#xD;
++ Chương 5: Các mạch biến đổi tần số&#xD;
++ Chương 6: Chuyển đổi Tương tự - Số, Số - Tương tự&#xD;
++ Chương 7: Mạch cung cấp nguồn</description>
+      <content:encoded>Bài giảng</content:encoded>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/c66632bd-f62d-4425-9ec3-b96cebda5aa8/2024-BG-Linh kiện và mạch điện tử_Trần Thị Thục Linh.pdf.jpg</guid>
+      <dc:date>2024-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bài giảng Nhập môn kỹ thuật điện tử</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3410</link>
+      <description>Nhan đề : Bài giảng Nhập môn kỹ thuật điện tử
+Tác giả: Nguyễn, Trung Hiếu
+Tóm tắt : Bài giảng bao gồm 6 chương với bố cục như sau:&#xD;
+ Chương 1: Giới thiêu tổng quan ngành và định hướng công viêc kỹ sư Công&#xD;
+nghê ̣Kỹ thuât điện, điện tử&#xD;
+ Chương 2: Giới thiêu chương trình đào tao các ngành của Khoa kỹ thuât điện&#xD;
+tử&#xD;
+ Chương 3: Thiết kế kỹ thuật&#xD;
+ Chương 4: Giới thiêu một số kỹ năng hỗ trợ hoc tập&#xD;
+ Chương 5: Kỹ năng và phương pháp viết báo cáo chuyên môn kỹ thuâṭ&#xD;
+ Chương 6: Giao lưu vớ i chuyên gia, cưu sinh viên, tham quan các phòng lab&#xD;
+của Học viện và môi trường làm viêc của các doanh nghiêp bên ngoài</description>
+      <content:encoded>Bài giảng</content:encoded>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/791d8c32-2c65-42a3-b65f-a70a04b99330/BG NhapMonKyThuatDienTu 2022.pdf.jpg</guid>
+      <dc:date>2022-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bài giảng kỹ thuật vi xử lý</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3409</link>
+      <description>Nhan đề : Bài giảng kỹ thuật vi xử lý
+Tác giả: Nguyễn, Trung Hiếu
+Tóm tắt : Nội dung bài giảng gồm 5 chương:&#xD;
+Chương 1: Tổng quan về hệ thống vi xử lý&#xD;
+Chương 2: Cấu trúc của bộ vi xử lý&#xD;
+Chương 3: Kết nối phần cứng hệ thống vi xử lý&#xD;
+Chương 4: Vi điều khiển&#xD;
+Chương 5: Lập trình hợp ngữ ARM</description>
+      <content:encoded>Bài giảng</content:encoded>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/2abc3034-cb33-4f0b-bf59-65ccbe87fc8c/BG KyThuatViXuLy 2022.pdf.jpg</guid>
+      <dc:date>2022-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Thiết kế hệ thống VLSI</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2663</link>
+      <description>Nhan đề : Thiết kế hệ thống VLSI
+Tác giả: Trương, Cao Dũng
+Tóm tắt : Nội dung của cuốn bài giảng chia làm 6 chương:&#xD;
+Chương 1: Tổng quan về thiết kế hệ thống VLSI&#xD;
+Chương 2: Lý thuyết transistor và công nghệ CMOS&#xD;
+Chương 3: Thiết kế mạch tổ hợp&#xD;
+Chương 4: Thiết kế mạch tuần tự&#xD;
+Chương 5: Thiết kế bộ nhớ&#xD;
+Chương 6: Phân hệ xử lý dữ liệu</description>
+      <content:encoded>Bài giảng</content:encoded>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/retrieve/6261e94a-831b-4668-862a-2e176d002eb0/Bài giảng Thiết kế hệ thống VLSI 2021.pdf.jpg</guid>
+      <dc:date>2021-01-01T00:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://dlib.ptit.edu.vn/handle/HVCNBCVT/1852">
+    <title>Thư viện số Đơn vị:</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/1852</link>
+    <description />
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/266a228d-4d7c-430c-bdee-420ee6d47fce/GT Ke toan doanh nghiep dich vu.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/4d4cb5f5-f23c-4edc-b01d-99a05a3f6af7/GT Ke toan doanh nghiep bao hiem.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/a9236db1-664c-4b2d-bebd-685653cd992c/Embedded-realtime-systems-programming.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/3f2b270c-5b82-4492-8f2f-ea47f7d4e228/Digital image processing (Gonzalez, Rafael C. Woods, Richard E.).pdf.jpg" />
+      </rdf:Seq>
+    </items>
+    <dc:date>2026-03-12T14:44:54Z</dc:date>
+  </channel>
+  <item rdf:about="https://ikr.inceif.org/retrieve/266a228d-4d7c-430c-bdee-420ee6d47fce/GT Ke toan doanh nghiep dich vu.pdf.jpg">
+    <title>Kế toán doanh nghiệp dịch vụ</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3446</link>
+    <description>Nhan đề : Kế toán doanh nghiệp dịch vụ
+Tác giả: Nguyễn, Văn Hậu
+Tóm tắt : Sách gồm các nội dung chính như sau:&#xD;
+Chương 1: Kế toán hoạt động kinh doanh dịch vụ vận tải&#xD;
+Chương 2: Kế toán hoạt động kinh doanh dịch vụ du lịch&#xD;
+Chương 3: Kế toán hoạt động kinh doanh dịch vụ khách sạn&#xD;
+Chương 4: Kế toán hoạt động kinh doanh viễn thông</description>
+    <content:encoded>E-book</content:encoded>
+    <dc:date>2022-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/4d4cb5f5-f23c-4edc-b01d-99a05a3f6af7/GT Ke toan doanh nghiep bao hiem.pdf.jpg">
+    <title>Kế toán doanh nghiệp bảo hiểm</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3445</link>
+    <description>Nhan đề : Kế toán doanh nghiệp bảo hiểm
+Tác giả: Nguyễn, Văn Hậu
+Tóm tắt : Nội dung cuốn sách gồm 6 chương:&#xD;
+Chương 1: Những vấn đề chung về kế toán doanh nghiệp bảo hiểm&#xD;
+Chương 2: Kế toán tài sản trong doanh nghiệp bảo hiểm&#xD;
+Chương 3: Kế toán các khoản thanh toán trong doanh nghiệp bảo hiểm&#xD;
+Chương 4: Kế toán chi phí, doanh thu, thu nhập và kết quả kinh doanh trong doanh nghiệp   bảo hiểm&#xD;
+Chương 5: Kế toán nguồn vốn chủ sở hữu và dự phòng nghiệp vụ tại doanh nghiệp bảo hiểm&#xD;
+Chương 6: Báo cáo tài chính chủ yếu của doanh nghiệp bảo hiểm</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2022-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/a9236db1-664c-4b2d-bebd-685653cd992c/Embedded-realtime-systems-programming.pdf.jpg">
+    <title>Embedded-realtime-systems-programming</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3365</link>
+    <description>Nhan đề : Embedded-realtime-systems-programming
+Tác giả: Sriram V. Iyer; Pankaj Gupta</description>
+    <content:encoded>Reference books</content:encoded>
+    <dc:date>2004-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/3f2b270c-5b82-4492-8f2f-ea47f7d4e228/Digital image processing (Gonzalez, Rafael C. Woods, Richard E.).pdf.jpg">
+    <title>Digital Image Processing</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3364</link>
+    <description>Nhan đề : Digital Image Processing
+Tác giả: Gonzalez, R. C. and Woods, R. E</description>
+    <content:encoded>Reference books</content:encoded>
+    <dc:date>2011-01-01T00:00:00Z</dc:date>
+  </item>
+</rdf:RDF>
+

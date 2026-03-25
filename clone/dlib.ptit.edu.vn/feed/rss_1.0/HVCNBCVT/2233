@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://dlib.ptit.edu.vn/handle/HVCNBCVT/2233">
+    <title>Thư viện số Đơn vị:</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2233</link>
+    <description />
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/db39fdaa-1f95-4e13-a61f-424ca590dc93/Ban mo ta CTDT he DH nganh CNTT 2020. Watermark.pdf.jpg" />
+      </rdf:Seq>
+    </items>
+    <dc:date>2026-03-12T14:44:33Z</dc:date>
+  </channel>
+  <item rdf:about="https://ikr.inceif.org/retrieve/db39fdaa-1f95-4e13-a61f-424ca590dc93/Ban mo ta CTDT he DH nganh CNTT 2020. Watermark.pdf.jpg">
+    <title>Bản mô tả chương trình đào tạo hệ đại học ngành công nghệ thông tin</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2321</link>
+    <description>Nhan đề : Bản mô tả chương trình đào tạo hệ đại học ngành công nghệ thông tin
+Tác giả: Học viện công nghệ Bưu chính Viễn thông
+Tóm tắt : Mô tả chi tiết chương trình đào tạo hệ đại học ngành công nghệ thông tin</description>
+    <content:encoded>Learning Object</content:encoded>
+    <dc:date>2020-01-01T00:00:00Z</dc:date>
+  </item>
+</rdf:RDF>
+

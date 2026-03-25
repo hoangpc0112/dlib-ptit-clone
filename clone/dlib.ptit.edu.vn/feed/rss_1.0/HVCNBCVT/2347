@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://dlib.ptit.edu.vn/handle/HVCNBCVT/2347">
+    <title>Thư viện số Đơn vị: Sách Danh nhân  sẽ giới thiệu đến bạn đọc những nhân vật nổi tiếng thế giới. Họ là những nhà quân sự, chính trị đại tài, nhà văn hóa, những nhà bác học tên tuổi và nổi tiếng. Danh tiếng của họ mãi mãi lưu danh sử sách. Tên tuổi, cuộc đời và sự nghiệp của những người này là những bản hùng ca độc đáo trong cuộc sống vĩnh hằng với những thất bại, thành công, những đắng cay cùng cực, những khổ ải mà họ đã đi qua, để lại cho hậu thế mai sau những thành công vĩ đại.</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2347</link>
+    <description>Sách Danh nhân  sẽ giới thiệu đến bạn đọc những nhân vật nổi tiếng thế giới. Họ là những nhà quân sự, chính trị đại tài, nhà văn hóa, những nhà bác học tên tuổi và nổi tiếng. Danh tiếng của họ mãi mãi lưu danh sử sách. Tên tuổi, cuộc đời và sự nghiệp của những người này là những bản hùng ca độc đáo trong cuộc sống vĩnh hằng với những thất bại, thành công, những đắng cay cùng cực, những khổ ải mà họ đã đi qua, để lại cho hậu thế mai sau những thành công vĩ đại.</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/c8726b8f-dcdf-4803-b3f5-690091230dd2/Bup sen xanh. Son Tung.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/f2ad36f1-a621-4fc9-b822-ce01f135da67/Vo Nguyen Giap.pdf.jpg" />
+      </rdf:Seq>
+    </items>
+    <dc:date>2026-03-12T14:46:13Z</dc:date>
+  </channel>
+  <item rdf:about="https://ikr.inceif.org/retrieve/c8726b8f-dcdf-4803-b3f5-690091230dd2/Bup sen xanh. Son Tung.pdf.jpg">
+    <title>Búp sen xanh</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2355</link>
+    <description>Nhan đề : Búp sen xanh
+Tác giả: Sơn Tùng
+Tóm tắt : Búp Sen Xanh là nơi tiểu thuyết và lịch sử đã gặp nhau và hoạ nên một giai đoạn trong cuộc đời người Cha già của dân tộc Việt Nam. Nơi ấy, có quê nhà xứ Nghệ, có làng Sen, có khung dệt của mẹ, có lời dạy của cha, có những người bạn và những kỷ niệm ấu thơ. Nơi ấy có xứ Huế mà trong cuộc sống nghèo khổ có trăn trở tuổi trẻ, về con người, về vận mệnh dân tộc, có mất mát và đau thương...&#xD;
+&#xD;
+Búp Sen Xanh vượt ra ngoài những giới hạn của một tác phẩm thiếu nhi, có thể làm bất kỳ ai rung động đến rơi nước mắt trong đêm chia ly, khi người con từ biệt cha ra đi để tìm một con đường cho chính mình và cho dân tộc. Một phần cuộc đời, trọn vẹn lý tưởng và dấn thân... Búp Sen Xanh không chỉ là câu chuyện về lãnh tụ mà còn là câu chuyện để làm người.</description>
+    <content:encoded>Book</content:encoded>
+    <dc:date>2007-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/f2ad36f1-a621-4fc9-b822-ce01f135da67/Vo Nguyen Giap.pdf.jpg">
+    <title>Võ Nguyên Giáp</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/2349</link>
+    <description>Nhan đề : Võ Nguyên Giáp
+Tác giả: Georges Boudarel
+Tóm tắt : Cuốn sách Võ Nguyễn Giáp có tên nguyên bản tiếng Pháp là Giap được Georges Boudarel hoàn thành và ra mắt vào năm 1977. Đây là cuốn sách được giới sử học Pháp đánh giá là một trong những tác phẩm giá trị nhất viết về Võ Nguyên Giáp, nhà quân sự lỗi lạc, vị tướng lĩnh tài ba, nhân vật nổi bật của lịch sử hiện đại Việt Nam và thế giới thế kỷ 20.</description>
+    <content:encoded>Book</content:encoded>
+    <dc:date>2013-01-01T00:00:00Z</dc:date>
+  </item>
+</rdf:RDF>
+

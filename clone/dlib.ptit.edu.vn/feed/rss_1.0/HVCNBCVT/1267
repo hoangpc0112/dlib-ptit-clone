@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://dlib.ptit.edu.vn/handle/HVCNBCVT/1267">
+    <title>Thư viện số Bộ sưu tập: Bao gồm các bài giảng của ngành Marketing biên soạn cho các môn học trong chương trình đào tạo</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/1267</link>
+    <description>Bao gồm các bài giảng của ngành Marketing biên soạn cho các môn học trong chương trình đào tạo</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/c699d59c-c747-423a-a7cf-7412ae1bff55/Bai giang -Truyền thông marketing tích hợp- Nguyễn Ngọc.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/554b3ae5-9974-4e66-86a4-f60a45bfe6df/Bài giảng tổng quan web 2023 (final 2) trangtruongedit.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/8c24f1b9-e464-4e70-802d-521be4a4754b/2023 Bai giang Marketing Cong nghiep final.pdf.jpg" />
+        <rdf:li rdf:resource="https://ikr.inceif.org/retrieve/b20c8b61-30ca-4a12-8eb9-5fd5120f5339/Bài giảng IUKD biên soạn - hiệu chỉnh 2023-Tiến.pdf.jpg" />
+      </rdf:Seq>
+    </items>
+    <dc:date>2026-03-12T14:59:07Z</dc:date>
+  </channel>
+  <item rdf:about="https://ikr.inceif.org/retrieve/c699d59c-c747-423a-a7cf-7412ae1bff55/Bai giang -Truyền thông marketing tích hợp- Nguyễn Ngọc.pdf.jpg">
+    <title>Bài giảng Truyền thông marketing tích hợp</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3477</link>
+    <description>Nhan đề : Bài giảng Truyền thông marketing tích hợp
+Tác giả: Nguyễn, Bảo Ngọc; Phạm, Thị Thái Quỳnh
+Tóm tắt : Gồm 7 chương: Chương 1: Tổng quan truyền thông marketing tích hợp, chương 2: Phân tích tình huống truyền thông, chương 3: Phân tích quy trình truyền thông, chương 4: Thiết mục mục tiêu và ngân sách truyền thông, chương 5: Phát triển chương trình truyền thông marketing tích hợp, chương 6: Đo lường kiểm soát và đánh giá chương trình truyền thông marketing tích hợp, chương 7: Một số khía cạnh đặc biệt trong truyền thông marketing.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2023-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/554b3ae5-9974-4e66-86a4-f60a45bfe6df/Bài giảng tổng quan web 2023 (final 2) trangtruongedit.pdf.jpg">
+    <title>Bài giảng Tổng quan về biên tập web</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3476</link>
+    <description>Nhan đề : Bài giảng Tổng quan về biên tập web
+Tác giả: Trương, Đình Trang
+Tóm tắt : Gồm 4 chương: Chương 1: Tổng quan về biên tập web, chương 2: Biên tập web cho người dùng và tìm kiếm, Chương 3: Biên tập và quản trị, Chương 5: Đánh giá website.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2023-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/8c24f1b9-e464-4e70-802d-521be4a4754b/2023 Bai giang Marketing Cong nghiep final.pdf.jpg">
+    <title>Bài giảng Marketing công nghiệp</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3474</link>
+    <description>Nhan đề : Bài giảng Marketing công nghiệp
+Tác giả: Nguyễn, Bình Minh; Trần, Thanh Hương
+Tóm tắt : Cung cấp những kiến thức căn bản và tổng quan của marketing cho khách hàng tổ chức,&#xD;
+cụ thể gồm: nghiên cứu và phân tích hành vi khách hàng là tổ chức; phân đoạn thị trường&#xD;
+và xác định thị trường mục tiêu; xây dựng chính sách marketing hỗn hợp trong lĩnh vực&#xD;
+thị trường tổ chức: sản phẩm, giá cả, kênh phân phối và truyền thông marketing. Đặc biệt&#xD;
+với thị trường khách hàng tổ chức, quản trị mối quan hệ khách hàng là rất quan trọng, do&#xD;
+vậy người học sẽ được trang bị kiến thức về quản trị quan hệ khách hàng tổ chức.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2023-01-01T00:00:00Z</dc:date>
+  </item>
+  <item rdf:about="https://ikr.inceif.org/retrieve/b20c8b61-30ca-4a12-8eb9-5fd5120f5339/Bài giảng IUKD biên soạn - hiệu chỉnh 2023-Tiến.pdf.jpg">
+    <title>Bài giảng Internet và ứng dụng trong kinh doanh</title>
+    <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/3470</link>
+    <description>Nhan đề : Bài giảng Internet và ứng dụng trong kinh doanh
+Tóm tắt : Bài giảng cung cấp cho sinh viên ngành Marketing&#xD;
+những kiến thức cơ bản và nền tảng về mạng máy tính và Internet như: các khái niệm,&#xD;
+thuật ngữ cơ bản liên quan đến máy tính, mạng máy tính, các giao thức mạng, các hệ điều&#xD;
+hành thông dụng, các công cụ truy nhập mạng Internet. Bài giảng cũng cung cấp kiến thức&#xD;
+cho sinh viên về việc sử dụng các ứng dụng trực tuyến như website, email, blog,&#xD;
+facebook,.. trên Internet và các kiến thức liên quan đến an toàn thông tin cá nhân. Ngoài ra còn giúp sinh viên&#xD;
+hình thành kỹ năng tự bảo vệ an toàn thông tin cá nhân và an toàn thông tin trong môi&#xD;
+trường doanh nghiệp cũng như vận dụng các kiến thức đã được học để đánh giá, phân tích&#xD;
+và thiết lập các kế hoạch kinh doanh trên Internet, giúp sinh viên có khả năng ứng dụng&#xD;
+các lý thuyết đã được học vào các kế hoạch kinh doanh trực tuyến của doanh nghiệp.</description>
+    <content:encoded>Bài giảng</content:encoded>
+    <dc:date>2023-01-01T00:00:00Z</dc:date>
+  </item>
+</rdf:RDF>
+

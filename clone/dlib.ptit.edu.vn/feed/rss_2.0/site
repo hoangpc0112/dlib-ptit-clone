@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Trung t&amp;#226;m th&amp;#432; vi&amp;#7879;n - H&amp;#7885;c vi&amp;#7879;n c&amp;#244;ng ngh&amp;#7879; b&amp;#432;u ch&amp;#237;nh vi&amp;#7877;n th&amp;#244;ng</title>
+    <link>http://localhost:80</link>
+    <description>Phần mềm quản lý tài nguyên số Dspace sẽ tiến hành thu thập, lưu trữ, đánh chỉ mục (tìm kiếm) bảo quản và phân phối các tài liệu số tới bạn đọc.</description>
+    <pubDate>Thu, 12 Mar 2026 14:35:19 GMT</pubDate>
+    <dc:date>2026-03-12T14:35:19Z</dc:date>
+    <item>
+      <title>Phát triển Game 2D Platformer "Iron Heart"</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5468</link>
+      <description>Nhan đề : Phát triển Game 2D Platformer "Iron Heart"
+Tác giả: Mai, Thành Đạt; Nguyễn, Hồng Hải; Hoàng, Trung Tiến
+Tóm tắt : Dự án “Iron Heart” là một trò chơi điện tử 2D thuộc thể loại đi cảnh&#xD;
+(Platformer) chạy trên nền tảng máy tính cá nhân (PC). Mục tiêu của dự án là&#xD;
+xây dựng một hệ thống game hoàn chỉnh, ứng dụng quy trình phát triển phần&#xD;
+mềm hiện đại thông qua Unity Engine và ngôn ngữ lập trình C#.&#xD;
+Về mặt nội dung, trò chơi yêu cầu người chơi điều khiển nhân vật vượt&#xD;
+qua các chướng ngại vật địa hình, khám phá từng ngóc ngách của bản đồ, giải&#xD;
+quyết các câu đố vật lý và chiến đấu với kẻ thù để hoàn thành màn chơi. Dự án&#xD;
+tập trung vào việc cân bằng giữa độ khó và trải nghiệm người dùng.&#xD;
+Về mặt kỹ thuật, báo cáo trình bày quy trình từ khâu thiết kế đến lập trình.&#xD;
+Điểm nhấn của dự án là việc ứng dụng Universal Render Pipeline để tối ưu hóa&#xD;
+hiệu ứng ánh sáng 2D và Particle System, đảm bảo chất lượng đồ họa cao mà&#xD;
+vẫn duy trì hiệu suất ổn định trên các cấu hình máy tính phổ thông.</description>
+      <content:encoded>Minor thesis</content:encoded>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/image/item.png</guid>
+      <dc:date>2025-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Xây dựng hệ thống quản lý tiến độ học tập cá nhân cho sinh viên ngành CNĐPT</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5467</link>
+      <description>Nhan đề : Xây dựng hệ thống quản lý tiến độ học tập cá nhân cho sinh viên ngành CNĐPT
+Tác giả: Dương, Văn Duy; Hoàng, Việt Hưng
+Tóm tắt : Ngoài phần mở đầu và kết luận, đồ án được chia làm các chương như sau:&#xD;
+Chương 1: Cơ sở lý thuyết. Chương này sẽ đưa ra các cơ sở lý thuyết chung, các&#xD;
+công nghệ được sử dụng và tích hợp trong hệ thống quản lý tiến độ học tập cá nhân&#xD;
+cho sinh viên ngành CNĐPT&#xD;
+Chương 2: Phân tích và thiết kế hệ thống. Chương này tập chung và phân tích và&#xD;
+thiết kế hệ thống dựa trên thực tế và nhu cầu của sinh viên. Các nội dung chính trình&#xD;
+bày gồm: phân tích các yêu cầu chức năng hệ thống. Các nội dung trình bày thiết kế&#xD;
+hệ thống gồm: kiến trúc và các thành phần của Frontend, kiến trúc và các thành phần&#xD;
+của Backend, đặc biệt là thông qua biểu đồ usecase, biểu đồ luồng, và biểu đồ tuần&#xD;
+tự cho các chức năng quan trọng. Biểu đồ use case mô tả tác nhân và chức năng,&#xD;
+trong khi biểu đồ luồng và biểu đồ tuần tự minh họa quy trình giữa các đối tượng.&#xD;
+Chương 3: Cài đặt và triển khai hệ thống. Chương này giới thiệu các công cụ sử&#xD;
+dụng để thực hiện đề tài xây dựng hệ thống quản lý tiến độ học tập cá nhân cho sinh&#xD;
+viên ngành CNĐPT, đưa ra các thuật toán, công nghệ áp dụng để xây dựng, cuối&#xD;
+cùng là trình bày kết quả thu được của quá trình nghiên cứu và thực hiện đề tài.</description>
+      <content:encoded>Minor thesis</content:encoded>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/image/item.png</guid>
+      <dc:date>2025-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ứng dụng mô hình ngôn ngữ lớn và kỹ thuật học tăng cường trong tối ưu đầu tư tài chính</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5466</link>
+      <description>Nhan đề : Ứng dụng mô hình ngôn ngữ lớn và kỹ thuật học tăng cường trong tối ưu đầu tư tài chính
+Tác giả: Đinh, Hữu Hoàng; Trần, Quang Hà; Vũ, Minh Thành
+Tóm tắt : Đồ án được chia làm các chương như sau:&#xD;
+Chương 1: Tổng quan đề tài. Chương này miêu tả bài toán, các chức năng của&#xD;
+hệ thống và cơ sở lý thuyết của đồ án.&#xD;
+Chương 2: Cơ sở lý thuyết và nền tảng dữ liệu cho mô hình đầu tư ứng dụng trí&#xD;
+tuệ nhân tạo. Chương này giới thiệu các khái niệm cốt lõi về AI, sự khác biệt về&#xD;
+thị trường tài chính Việt Nam so với thế giới, và cách ứng dụng trí tuệ nhân tạo&#xD;
+trong đầu tư tài chính.&#xD;
+Chương 3: Phân tích yêu cầu và mô hình hệ thống. Chương này sẽ phân tích&#xD;
+kiến trúc tổng quát của hệ thống, xây dựng biểu đồ usecase, biểu đồ lớp, thiết kế&#xD;
+giao diện cho hệ thống, mô tả chi tiết cách xây dựng, huấn luyện và tích hợp các&#xD;
+mô hình AI (LLM + RL).</description>
+      <content:encoded>Minor thesis</content:encoded>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/image/item.png</guid>
+      <dc:date>2025-01-01T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Nghiên cứu nghệ thuật tranh dân gian Đông hồ và ứng dụng trong thiết kế nhận diện thương hiệu thờ cúng "Vạn Cổ Anh Linh"</title>
+      <link>http://dlib.ptit.edu.vn/handle/HVCNBCVT/5465</link>
+      <description>Nhan đề : Nghiên cứu nghệ thuật tranh dân gian Đông hồ và ứng dụng trong thiết kế nhận diện thương hiệu thờ cúng "Vạn Cổ Anh Linh"
+Tác giả: Đoàn, Trần Vũ; Phan, Hoàng Nam; Thái, Huy Nhật Quảng
+Tóm tắt : Đồ án được chia làm 3 chương:&#xD;
+Chương 1: Cơ sở lý thuyết về nghệ thuật tranh dân gian Đông Hồ và bộ nhận diện&#xD;
+thương hiệu.&#xD;
+Chương 2: Nghiên cứu nghệ thuật tranh dân gian Đông Hồ trong thiết kế bộ nhận&#xD;
+diện thương hiệu.&#xD;
+Chương 3: Ứng dụng nghệ thuật tranh dân gian Đông Hồ vào thiết kế nhận diện&#xD;
+thương hiệu Vạn Cổ Anh Linh.</description>
+      <content:encoded>Minor thesis</content:encoded>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://ikr.inceif.org/image/item.png</guid>
+      <dc:date>2025-01-01T00:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+
